@@ -1,37 +1,37 @@
-## Welcome to ACU Content Preview 2019
+## Welcome to LAO e-learning Contents Preview
 
-You can use the [editor on GitHub](https://github.com/nirankoon/acu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Prototype Contents 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+ລຳດັບ | ວິທະຍາສາດສິ່ງແວດລ້ອມ | ປະຫວັດສາດເສດຖະກິດລາວ | ສະຖິຕິພື້ນຖານ | Programing 1 | ວິຊາລາວສຶກສາ 1
+------------ |------------ | ------------- | ------------- | ------------- | -------------
+Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2
+1 | [Introduction to enveronment](#)  | olumn | Clumn | Contelumn | Contentlumn
+2 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+3 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+4 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+5 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+6 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+7 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+8 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+9 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+10 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+11 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+12 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
+13 | [Chapter 01](#)Content  | olumn | Clumn | Contelumn | Contentlumn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Previous Contents
 
-```markdown
-Syntax highlighted code block
+You can use a mirrow link below to access e-learning contents
+1. Compleate Contents [2013](#)
+2. Compleate Contents [2014](#)
+3. Compleate Contents [2015](#)
+4. Compleate Contents [2016](#)
+5. Compleate Contents [2017](#)
+6. Compleate Contents [2018](#)
 
-# Header 1
-## Header 2
-### Header 3
+### ຄຳແນະນຳ
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nirankoon/acu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Developer by: Nirankoon Singpraseuth
+and Nut Donephandee
+Build with Jekyll
